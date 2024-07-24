@@ -12,7 +12,7 @@ I'm a versatile developer with a strong foundation in multiple programming langu
 - 🔭 I’m currently working on: Improving my skills in Laravel and exploring new front-end technologies.
 - 🌱 I’m currently learning: Advanced concepts in MERN stack and deepening my understanding of Python.
 - 💬 Ask me about: Laravel, MERN stack, Python, or C. I love discussing tech and coding practices!
-- 📫 How to reach me: [LinkedIn]([Bill Jerson Evangelista | LinkedIn](https://www.linkedin.com/in/bill-jerson-evangelista-57602b133/)) | [Email](bdevangelista@up.edu.ph)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bill-jerson-evangelista-57602b133) | [Email](bdevangelista@up.edu.ph)
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +25,7 @@ I'm a versatile developer with a strong foundation in multiple programming langu
 
 Here are a few projects I've worked on:
 
-- **[Mini Web App: Windows to WSL Path Converter]([bjax20/wsl-converter: Windows to WSL Path Converter: A simple web tool for converting Windows file paths to WSL format. Easily handle path conversions and copy results to your clipboard. (github.com)](https://github.com/bjax20/wsl-converter))**
+- **[Mini Web App: Windows to WSL Path Converter](https://github.com/bjax20/wsl-converter)**
   - A tool to simplify the conversion of Windows paths to WSL paths.
 
 ## 📈 GitHub Stats
