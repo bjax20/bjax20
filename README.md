@@ -77,7 +77,7 @@ I'm a **Full Stack Developer** with a strong foundation in building scalable, se
 ## 🔍 Featured Projects
 
 ### 🧠 **Tapos.work – Project Management App**
-
+> **[Frontend Repo](https://github.com/bjax20/tapos-fe)** | **[Backend Repo](https://github.com/bjax20/tapos-be)**
 **Next.js, NestJS, TypeScript, PostgreSQL**
 
 * ⚡ Reduced perceived latency by **~90%** using optimistic updates (TanStack Query)
